@@ -1,1 +1,10 @@
-aaa
+faiss-cpu
+numpy
+pandas
+torch
+sentence-transformers
+rank-bm25
+openpyxl
+optuna
+scikit-learn
+tqdm
